@@ -1,0 +1,14 @@
+{
+  "name": "global-dependencies",
+  "version": "1.0.0",
+  "description": "This file exists to provide global dependencies to multiple angular projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "~11.2.14"
+  }
+}
